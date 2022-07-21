@@ -1176,7 +1176,7 @@
       "spec": "gtfs",
       "urls": {
         "static_historic": [
-          "https://data.trilliumtransit.com/gtfs/fresnocounty-ca-us/fresnocounty-ca-us.zip"
+          "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/7869/google_transit.zip"
         ]
       },
       "license": {
